@@ -1,3 +1,3 @@
 # superHero
-comics store management
-java web with hibernate
+comics store management in java with hibernate  
+
